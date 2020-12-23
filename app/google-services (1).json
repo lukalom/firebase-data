@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396678637112",
+    "project_id": "luka-data",
+    "storage_bucket": "luka-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396678637112:android:4b2552519da29e84b468cd",
+        "android_client_info": {
+          "package_name": "com.example.firebasedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396678637112-idkhn4klnin7tcr1umdk7h80g08ivtea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnaq-EAuzUvhQSrvGXP2E9iF412oNk9rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396678637112-idkhn4klnin7tcr1umdk7h80g08ivtea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
